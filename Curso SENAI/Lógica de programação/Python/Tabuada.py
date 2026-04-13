@@ -1,0 +1,1 @@
+tab = int(input("Digite a tabuada que deseja saber: "));[print(f"{tab} X {i} = {tab*i}") for i in range(1,11)]
